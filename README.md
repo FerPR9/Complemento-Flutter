@@ -7,6 +7,7 @@
 ## Ejercicios del 01 al 04:
 
 ### 01: Hello World. 0.25 puntos.
+![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/a38b4dd5-326d-4df1-9b07-8414c2497f13)
 
 ### 02: Variables. 0.25 puntos.
 ![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/e256eab9-c230-4827-9832-cda3b7c315ac)
@@ -32,7 +33,7 @@
 ![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/2442c535-9b87-4ef4-baf0-b9d9a756cd00)
 ![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/86cd8382-fad1-427a-aef9-a6ea50718492)
 ### 07: Constructors and names. 0.25 puntos.
-### 08: get and set. 0.25 puntos.
+![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/e8b6dffb-3edf-4525-b852-4c224eca4914)
 ## Ejercicios del 09 al 15:
 ### 09: Abstract class. 0.25 puntos.
 ![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/476df786-735f-4e53-ba3e-86c967f753ad)
@@ -45,8 +46,7 @@
 ![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/2e917b8e-12d2-4133-9909-a944ecfb63bb)
 
 ### 12: Async Await. 0.25 puntos.
-
-
+![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/2f71ab65-9c28-4087-b1f0-84a4116d11be)
 ### 13: Try catch finally. 0.25 puntos.
 ![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/5c8022ed-f22c-4ef7-a719-349a7374855f)
 ![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/11ed5b20-2258-4bf6-a4d9-d60ef956aebf)
@@ -56,6 +56,8 @@
 ![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/995fbe3c-53da-4b3e-a605-fae0fcacbb5c)
 
 ### 15: Stream await. 0.25 puntos. 
+![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/a21510bb-4e2c-480d-b46c-e65eefbd99c0)
+![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/41adedd1-ce61-474e-bfa2-6c33bf49941c)
 
 ## Proyecto flutter
 ![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/aa0ac5ac-64a5-4b65-981f-c5d4c7ad5b40)
