@@ -34,6 +34,8 @@
 ![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/86cd8382-fad1-427a-aef9-a6ea50718492)
 ### 07: Constructors and names. 0.25 puntos.
 ![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/e8b6dffb-3edf-4525-b852-4c224eca4914)
+### 08: get and set. 0.25 puntos.
+![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/084c364b-2d4c-4b01-92e7-62b4bb872d99)
 ## Ejercicios del 09 al 15:
 ### 09: Abstract class. 0.25 puntos.
 ![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/476df786-735f-4e53-ba3e-86c967f753ad)
