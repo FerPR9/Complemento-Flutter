@@ -76,3 +76,6 @@
 ![image](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/f6597c20-fb82-4e31-92ab-890ca1a5bd35)
 ![Imagen de WhatsApp 2024-07-04 a las 17 00 05_c9ff3878](https://github.com/FerPR9/Complemento-Flutter/assets/126131443/111feef5-2110-414c-8283-107584796a0e)
 
+## Enlace del proyecto(equipo)
+![](https://github.com/rodrigovm10/wearable.git)
+
