@@ -78,4 +78,5 @@
 
 ## Enlace del proyecto(equipo)
 ![](https://github.com/rodrigovm10/wearable.git)
+https://github.com/rodrigovm10/wearable.git
 
